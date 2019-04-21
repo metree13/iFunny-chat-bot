@@ -2,8 +2,8 @@ from iFunnyBot import iFunnyBot
 import json
 import time
 
-email = "YOUR EMAIL HERE"
-password = "YOUR PASSWORD HERE"
+email = "dametreslopez@yahoo.com"
+password = "KiddMetree13"
 
 def run():
     
